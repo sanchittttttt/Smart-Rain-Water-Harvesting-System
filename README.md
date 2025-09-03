@@ -20,7 +20,7 @@ RainFlow is an AI-powered rainwater harvesting management system that combines r
 
 ## 🚀 Live Demo
 
-**Coming Soon!** - Deploying to Streamlit Cloud
+https://smart-rain-water-harvesting-system.streamlit.app/
 
 ## 🛠️ Installation
 
